@@ -6,7 +6,6 @@
 - 🧠 Estudante Ciencia da computação 02.
 - 📈 Estudante de Data Science. 
 - 💻 Dev web (HTML,CSS,JS,PHP).
-- 🦾 Automações Py.
 - ☕ Passion for coffee and technology
 
 
