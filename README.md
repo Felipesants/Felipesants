@@ -3,7 +3,7 @@
   ##
 
 - 👨‍💻 Grupo de engenharia Metalsa/PR.
-- 🧠 Estudante Ciencia da computação 02.
+- 🧠 Estudante Ciencia da computação 03.
 - 📈 Estudante de Data Science. 
 - 💻 Dev web (HTML,CSS,JS,PHP).
 - ☕ Passion for coffee and technology
