@@ -7,6 +7,7 @@
 - 📈 Estudante de Data Science. 
 - 💻 Dev web (HTML,CSS,JS,PHP).
 - ☕ Passion for coffee and technology
+- ⌨ Software developer CSharp
 
 
 <div align="center">
