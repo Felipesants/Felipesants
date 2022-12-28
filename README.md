@@ -2,7 +2,7 @@
 
   ##
 
-- 👨‍💻 Grupo de engenharia Metalsa/PR.
+- 👨‍💻 Digital Innovation Metalsa/PR.
 - 🧠 Estudante Ciencia da computação 03.
 - 📈 Estudante de Data Science. 
 - 💻 Dev web (HTML,CSS,JS,PHP).
