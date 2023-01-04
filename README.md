@@ -5,7 +5,7 @@
 - 👨‍💻 Digital Innovation Metalsa/PR.
 - 🧠 Estudante Ciencia da computação 03.
 - 📈 Estudante de Data Science. 
-- 💻 Dev web (HTML,CSS,JS,PHP).
+- 💻 Dev web (HTML,CSS,JS).
 - ☕ Passion for coffee and technology
 - ⌨ Software developer CSharp
 
