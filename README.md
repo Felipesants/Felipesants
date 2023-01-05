@@ -1,12 +1,12 @@
 ### Hi! I am Felipe Santos 👋
 
   ##
-
+  
+- ☕ Passion for coffee and technology
 - 👨‍💻 Digital Innovation Metalsa/PR.
 - 🧠 Estudante Ciencia da computação 04.
 - 📈 Estudante de Data Science. 
 - 💻 Dev web (HTML,CSS,JS).
-- ☕ Passion for coffee and technology
 - ⌨ Software developer CSharp
 
 
