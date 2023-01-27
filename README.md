@@ -6,8 +6,8 @@
 - 👨‍💻 Digital Innovation Metalsa/PR.
 - 🧠 Estudante Ciencia da computação 04.
 - 📈 Estudante de Data Science. 
-- 💻 Dev web (HTML,CSS,JS).
-- ⌨ Software developer CSharp
+- 📱 Dev mobile React-Native.
+- ⌨ Software developer CSharp.
 
 
 <div align="center">
