@@ -4,10 +4,9 @@
   
 - ☕ Passion for coffee and technology
 - 👨‍💻 Digital Innovation Metalsa/PR.
-- 🧠 Estudante Ciencia da computação 04.
-- 📈 Estudante de Data Science. 
-- 📱 Dev mobile React-Native.
-- ⌨ Software developer CSharp.
+- 🧠 Ciencia da computação.
+- 📱 Dev mobile RN.
+- ⌨ Software developer ASP.
 
 
 <div align="center">
