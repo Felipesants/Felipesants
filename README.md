@@ -27,7 +27,3 @@
 </div>
   
   ##
-
-Link public QR-CODE GERADOR: https://felipesants.github.io/Qr-code-generator/
- 
-Link publi MARIO-RUN: https://felipesants.github.io/Mario_project/
